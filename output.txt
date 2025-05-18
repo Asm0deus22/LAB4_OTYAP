@@ -1,0 +1,2 @@
+if[if] a[id] >[co] b[id] and[lo] 1[vl] <[co] 2[vl] or[lo] 4[vl] <>[co] g[id] then[th] test[id] =[eq] lol[id] +[ao] kek[id] -[ao] pack[id] elseif[ei] a[id] >[co] b[id] then[th] lol[id] =[eq] 0[vl]
+ao ei en sc

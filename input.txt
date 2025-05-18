@@ -1,0 +1,1 @@
+if a > b and 1 < 2 or 4 <> g then test = lol + kek - pack elseif a > b then lol = 0
