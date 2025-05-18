@@ -63,6 +63,7 @@ int main() { // я не хочу это в main, это же ведь тест
         writing << "OK";
     } else {
         cout << result->posERROR << ' ';
+        writing << result->posERROR << ' ';
         isFirst = true;
         for (i = 0; i < result->awaited->getSize(); i++) {
             if (isFirst) isFirst = !isFirst;
