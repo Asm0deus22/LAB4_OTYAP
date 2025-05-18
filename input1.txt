@@ -1,0 +1,1 @@
+if a > 0 then lol = 1; kek = 2 elseif b > 0 then l = 1 elseif g <> 1000 then kek = 666 end

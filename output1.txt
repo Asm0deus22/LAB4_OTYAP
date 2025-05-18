@@ -1,0 +1,2 @@
+if[if] a[id] >[co] 0[vl] then[th] lol[id] =[eq] 1[vl] ;[sc] kek[id] =[eq] 2[vl] elseif[ei] b[id] >[co] 0[vl] then[th] l[id] =[eq] 1[vl] elseif[ei] g[id] <>[co] 1000[vl] then[th] kek[id] =[eq] 666[vl] end[en]
+OK
