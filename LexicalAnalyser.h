@@ -137,8 +137,8 @@ namespace LexicalAnalyser { // пространство имен, где все 
         {ID, ID, F, F, F, F, F, F, WL}, // ID
         {VL, WL, F, F, F, F, F, F, WL}, // VL
         {WL, WL, F, F, F, F, F, F, WL}, // WL
-        {F, F, F, F, CO, F,  F, F,  F}, // CO
-        {F, F, CO, F, CO, F, F, F, F}, // COO
+        {F, F, F, F, F, F,  F, F,  F}, // CO
+        {F, F, CO, F, F, F, F, F, F}, // COO
         {F, F, F, F, F, F, F, F, F}, // AO
         {F, F, F, F, F, F, F, F, F}, // EQ
         {F, F, F, F, F, F, F, F, F}  // SC
